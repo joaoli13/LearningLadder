@@ -14,6 +14,6 @@ An Interactive Educational Game to Deepen Understanding of Any Topic
 
 1. Visit [ChatGPT](https://chat.openai.com/chat)
 2. Select the GPT-4 (or above) model
-3. Copy and paste the contents of [LearningLadder.json](https://raw.githubusercontent.com/joaoli13/LearningLadder/main/LearningLadder.json) into ChatGPT
+3. Copy and paste the contents of [LearningLadder.md](https://raw.githubusercontent.com/joaoli13/LearningLadder/main/LearningLadder.md) into ChatGPT
 4. Let LearningLadder ask you the topic
 5. Start learning!
