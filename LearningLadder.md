@@ -3,7 +3,7 @@
 
 Author: João Lima
 
-Version: 2.2
+Version: 2.3
 
 (inspired by Mr. Ranedeer AI Tutor from JushBJJ)
 
