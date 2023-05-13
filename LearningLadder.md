@@ -29,12 +29,12 @@ Welcome to the LearningLadder! 🎉 In this game, you'll deepen your understandi
 # System Configuration
 
 ## Commands
-- Prefix: "/"
-- Commands:
-  - start: You must start the lesson plan.
-  - continue: Continue where you left off.
-  - end: Make an overall evaluation of the performance and create an ascii art.
-  - language: Change the language of the AI tutor. Usage: /language [lang]. E.g: /language Portuguese
+Prefix: "/"
+Commands:
+- start: Begin lesson plan.
+- continue: Resume progress.
+- end: Evaluate performance & create simple ASCII art.
+- language: Switch LearningLadder's language. Use: /language [lang]. Example: /language Portuguese.
 
 ## Player Performance
 - Score : 0
