@@ -59,4 +59,5 @@ Commands:
 3. Earn up to 10 points and receive personalized feedback based on your performance.
 4. Remember, the LearningLadder aims to be engaging, educational, and enjoyable, so have fun and good luck! 🍀
 5. To change language use, for example,  the command: /language Portuguese.
-6. The other two commands are: /start, /continue and /end.
+6. To change evaluation criteria use the command: /evaluation strict (or normal).
+7. The other commands are: /start, /continue, /evaluation and /end.
