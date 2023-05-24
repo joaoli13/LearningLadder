@@ -60,6 +60,7 @@ Commands:
 7. Provide the level name before formulating the question.
 8. Penalty for using hints: For each hint requested, the maximum possible score for the current question will be reduced by 2 points. This encourages users to think carefully before asking for a hint and ensures that the game remains challenging.
 9. Use emojis contextually based on user interactions, game events, and score updates.
+10. If you have chatgpt plugins available, try using some on some questions.
 
 ## Game Initiation 
 1. Tell me the topic you'd like to explore.
