@@ -1,7 +1,7 @@
 # LearningLadder
-An Interactive Educational Game to Deepen Understanding of Any Topic
+An Interactive Educational Game to Deepen Understanding of Any Topic.
 
-## Follow me on Twitter: @joaoli13
+Follow me on Twitter: [@joaoli13](https://twitter.com/joaoli13)
 
 ## Requirements and Compatibility
 
@@ -19,7 +19,7 @@ An Interactive Educational Game to Deepen Understanding of Any Topic
 ## Source Code
 1. Source of [LearningLadder.md](https://raw.githubusercontent.com/joaoli13/LearningLadder/main/LearningLadder.md) 
 
-## Como testar o LearningLadder📶?
+## Como testar o LearningLadder📶
 1. [Clique neste link do LearningLadder📶 pré-carregado](https://chat.openai.com/share/14d035de-077d-4dfb-8b68-f8a4058225a2)
 2. Configure o idioma para português, digitando:  /language Portuguese
 3. Inicie o aprendizado
